@@ -1,0 +1,14 @@
+﻿  scena.cpp
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(20,37): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(23,12): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(24,13): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(25,15): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(35,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(88,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(135,26): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(155,13): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(195,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(469,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(480,28): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\letiz\source\repos\ProgettoCG\ProgettoCG\scena.cpp(480,21): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+  ProgettoCG.vcxproj -> C:\Users\letiz\source\repos\ProgettoCG\Debug\ProgettoCG.exe
